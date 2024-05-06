@@ -1,2 +1,2 @@
 # PatoAndando
-curso GIT
+## Vamos ver esse pato andar!
